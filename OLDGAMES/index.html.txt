@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Catálogo de Juegos</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <header>
+        <h1>GamesFullZ</h1>
+    </header>
+
+    <main class="catalogo">
+        <div class="tarjeta-juego">
+            <img src="resident_evil.jpg" alt="Imagen del juego Resident Evil 4">
+            <div class="info">
+                <h2>Resident Evil 4</h2>
+                <p>Un clásico del survival horror. Leon S. Kennedy debe rescatar a la hija del presidente...</p>
+                <div class="descargas">
+                    <span>⭐⭐⭐⭐⭐</span>
+                    <span>12 descargas</span>
+                </div>
+                <a href="#" class="btn-descarga">Ver Más</a>
+            </div>
+        </div>
+        </main>
+
+</body>
+</html>
